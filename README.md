@@ -43,6 +43,6 @@ This is the program that uses the decoding results output from Decode.ino to con
 
 ## Future Work
 
-###3/15
+### 3/15
 We are going to use the serial output from the Raspberry Pi to tell the controller program running on Arduino Uno to select the instruction that user want to use.
 
